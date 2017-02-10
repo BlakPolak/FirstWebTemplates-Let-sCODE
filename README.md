@@ -10,12 +10,6 @@ There are some requirement you should fulfil.
 
 ### Step by step:
 
-#### Setup repository
-
-1.  <span>Create a new GitHub repository for your site with **README.md** file</span>
-2.  <span>Add **.ignore** file to it if needed</span>
-3.  <span>Clone the repository to your machine</span>
-
 #### Create your index page
 
 1.  <span>Before you start coding sketch up how your web pages should look like. You can do it on paper or with any wire frame application. This is your choice. The purpose is to visualize that what different sections and parts will be in your page and how should they be arranged.</span>
