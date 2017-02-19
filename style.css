@@ -1,0 +1,146 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url('https://s-media-cache-ak0.pinimg.com/564x/29/16/0a/29160a81b3a5df3d22df44c9673f215d.jpg');
+  background-position: left top;
+  background-attachment: fixed;
+  background-size:  500px;
+  margin: 0px 50px 50px 50px;
+  padding: 0px 45px 50px 50px;
+}
+
+.photo{
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.top{align-items: center;
+	align-self: center;
+    background-color: rgba(255, 255, 255, 0.67);
+    background-position: top;
+    background-attachment: fixed;
+    background-size:  0px;
+	display: flex;
+	flex-direction: column;
+	min-height: 800px;
+	width: 700px;
+    margin: 40px;
+    padding: 0px 0px;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+h3 { color: #000000;
+  font-family: 'Playfair Display', serif;
+  font-size: 32px;
+  font-weight: 50;
+  line-height: 52px;
+  margin: 50px 40px 20px 180px;
+  text-align: center;
+  text-shadow: 1px 2px 2px rgb(0, 0, 0);
+  width: 50%;
+    
+}
+p {
+  margin: 0px 40px 10px 20px;
+  text-align: center;
+    
+}
+.page-title {
+  text-align: center;
+  font-weight: 100;
+  color: rgb(255, 255, 35);
+  font-family: 'Playfair Display', serif;
+  font-size: 52px;
+  font-weight: 900;
+  line-height: 46px;
+  margin: 50px 5px 0px 200px;
+  text-shadow: 0px 2px 2px rgb(0, 0, 0);
+  width: 50%;
+}
+
+.page-description {
+  border: 0px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 30px;
+}
+
+.video {
+  margin: 0px 50px 0px 50px;
+  padding: 10px 20px 30px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+nav {
+   background-color: rgba(237, 237, 237, 0.69);
+   background-position: top;
+   background-size:  900px 600px;
+   text-align: center;
+   border: 0px solid #a0a0a0
+
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 10px 20px;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+  float: right;
+}
+
+.contact-btn a {
+  position: relative;
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+
+}
+
+.contact-btn a:active {
+ 	top: 5px;
+
+}
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #3b0707;
+  text-decoration: none;
+}
+
